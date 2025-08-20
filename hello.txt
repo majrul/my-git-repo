@@ -1,1 +1,2 @@
 Hello Everyone!
+Hi all, we are learning Git!
