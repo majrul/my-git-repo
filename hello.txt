@@ -1,2 +1,3 @@
 Hello Everyone!
 Hi all, we are learning Git!
+Git is very powerful SCM!
